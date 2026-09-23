@@ -38,7 +38,7 @@ Traditional monetization methods for indie creators (sponsorships, ads, affiliat
 
 ## 🔗 Live Demo & Repository Links
 
-- **Live Site**: [https://get-me-a-chai.vercel.app](https://get-me-a-chai.vercel.app)
+- **Live Site**: [https://get-me-a-chai-app.vercel.app](https://get-me-a-chai-app.vercel.app)
 - **GitHub Repository**: [SahilAdvani/get-me-a-chai](https://github.com/SahilAdvani/get-me-a-chai)
 
 ---
