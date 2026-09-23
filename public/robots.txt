@@ -1,0 +1,10 @@
+# http://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Disallow sensitive dynamic/private paths
+Disallow: /api/
+Disallow: /dashboard
+
+# Sitemap location
+Sitemap: https://get-me-a-chai.vercel.app/sitemap.xml
